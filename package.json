@@ -1,7 +1,7 @@
 {
-  "name": "montsesimon-portfolio",
+  "name": "manuels-portfolio",
   "private": true,
-  "description": "Portafolio de trabajos e investigaciones de Montse Simón",
+  "description": "Portafolio de trabajos de Manuel Sanz",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {

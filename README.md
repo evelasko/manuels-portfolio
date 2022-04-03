@@ -1,5 +1,5 @@
 <h1 align="center">
-  Rey Montesinos Portafolio
+  Manuel Sanz Portafolio
 </h1>
 
-Portafolio de obras escénicas, interpretaciones y artículos de investigación de Rey Montesinos Castillo
+Portafolio de obras escénicas, interpretaciones y artículos de investigación de Manuel Sanz' Castillo
