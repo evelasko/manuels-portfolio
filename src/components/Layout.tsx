@@ -74,7 +74,7 @@ const GlobalStyle = createGlobalStyle`
 
 
 body {
-    font-family: 'Heebo', sans-serif;
+    font-family: 'Branch', sans-serif;
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
