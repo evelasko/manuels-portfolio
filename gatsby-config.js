@@ -1,12 +1,12 @@
 if (process.env.NODE_ENV == "development") require("dotenv").config()
 module.exports = {
     siteMetadata: {
-        title: "Montse Simon",
-        description: "Portafolio de interpretación teatral, dirección escénica e investigación dramática",
+        title: "Manuel Sanz",
+        description: "Portafolio de trabajos en danza escénica, baile deportivo y bailes de salón",
         author: "Misfitcoders",
         twitterUsername: "@hnpotter",
         image: "/yellow-metal-design-decoration.jpg",
-        siteUrl: "https://montsesimon.com",
+        siteUrl: "https://manuelsanz.com",
     },
     /* Your site config here */
     plugins: [
@@ -37,8 +37,8 @@ module.exports = {
         {
             resolve: "gatsby-plugin-robots-txt",
             options: {
-                host: "https://montsesimon.com",
-                sitemap: "https://montsesimon.com/sitemap.xml",
+                host: "https://manuelsanz.com",
+                sitemap: "https://manuelsanz.com/sitemap.xml",
                 policy: [{ userAgent: "*", allow: "/" }],
             },
         },

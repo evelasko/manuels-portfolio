@@ -53,7 +53,7 @@ const NavModule = () => {
                                 {/* {title}<span>.</span> */}
                                 <StaticImage
                                     src="../../images/logos/signature.svg"
-                                    alt="Montse Simon's signature"
+                                    alt="Manuel Sanz' signature"
                                     height={100}
                                 />
                                 </Link>
